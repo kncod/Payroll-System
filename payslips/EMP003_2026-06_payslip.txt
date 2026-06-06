@@ -1,0 +1,30 @@
+ETHIOPIAN PAYROLL MANAGEMENT SYSTEM - PAYSLIP
+Month: 2026-06
+Employee: EMP003 - Samuel Bekele
+Department: HR
+Position: HR Officer
+Bank Account: 1000012347
+
+EARNINGS
+Basic Salary:              18,000.00
+Housing Allowance:         0.00
+Transport Allowance:       0.00
+Meal Allowance:            0.00
+Communication Allowance:   0.00
+Bonus:                     0.00
+Overtime Pay:              1,534.09
+Gross Salary:              19,534.09
+
+DEDUCTIONS
+Income Tax:                5,336.93
+Employee Pension:          1,260.00
+Loan Repayment:            0.00
+Advance Salary:            0.00
+Penalty:                   0.00
+Other Deductions:          0.00
+Absence Deduction:         1,636.36
+Late Deduction:            0.00
+Total Deductions:          8,233.29
+
+NET SALARY:                11,300.80
+Employer Pension:          1,980.00

@@ -1,0 +1,30 @@
+ETHIOPIAN PAYROLL MANAGEMENT SYSTEM - PAYSLIP
+Month: 2026-06
+Employee: EMP002 - Hana Tesfaye
+Department: Finance
+Position: Accountant
+Bank Account: 1000012346
+
+EARNINGS
+Basic Salary:              12,000.00
+Housing Allowance:         0.00
+Transport Allowance:       0.00
+Meal Allowance:            0.00
+Communication Allowance:   0.00
+Bonus:                     0.00
+Overtime Pay:              0.00
+Gross Salary:              12,000.00
+
+DEDUCTIONS
+Income Tax:                2,700.00
+Employee Pension:          840.00
+Loan Repayment:            0.00
+Advance Salary:            0.00
+Penalty:                   0.00
+Other Deductions:          0.00
+Absence Deduction:         4,909.09
+Late Deduction:            0.00
+Total Deductions:          8,449.09
+
+NET SALARY:                3,550.91
+Employer Pension:          1,320.00

@@ -1,0 +1,30 @@
+ETHIOPIAN PAYROLL MANAGEMENT SYSTEM - PAYSLIP
+Month: 2026-06
+Employee: VOLUPTAS SIMILIQUE A - Lillian Welch
+Department: Ad in vitae recusand
+Position: Nemo ex sint facilis
+Bank Account: 887
+
+EARNINGS
+Basic Salary:              0.00
+Housing Allowance:         0.00
+Transport Allowance:       0.00
+Meal Allowance:            0.00
+Communication Allowance:   0.00
+Bonus:                     0.00
+Overtime Pay:              0.00
+Gross Salary:              0.00
+
+DEDUCTIONS
+Income Tax:                0.00
+Employee Pension:          0.00
+Loan Repayment:            0.00
+Advance Salary:            0.00
+Penalty:                   0.00
+Other Deductions:          0.00
+Absence Deduction:         0.00
+Late Deduction:            0.00
+Total Deductions:          0.00
+
+NET SALARY:                0.00
+Employer Pension:          0.00

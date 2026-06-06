@@ -1,0 +1,5 @@
+month,employee_id,full_name,department,basic_salary,housing_allowance,transport_allowance,meal_allowance,communication_allowance,bonus,overtime_pay,gross_salary,income_tax,employee_pension,employer_pension,loan_repayment,advance_salary,penalty,other_deductions,absence_deduction,late_deduction,total_deductions,net_salary
+2026-06,EMP001,Abebe Kebede,IT,39000.00,0.00,0.00,0.00,0.00,0.00,0.00,39000.00,12150.00,2730.00,4290.00,0.00,0.00,0.00,0.00,0.00,0.00,14880.00,24120.00
+2026-06,EMP002,Hana Tesfaye,Finance,12000.00,0.00,0.00,0.00,0.00,0.00,0.00,12000.00,2700.00,840.00,1320.00,0.00,0.00,0.00,0.00,4909.09,0.00,8449.09,3550.91
+2026-06,EMP003,Samuel Bekele,HR,18000.00,0.00,0.00,0.00,0.00,0.00,1534.09,19534.09,5336.93,1260.00,1980.00,0.00,0.00,0.00,0.00,1636.36,0.00,8233.29,11300.80
+2026-06,VOLUPTAS SIMILIQUE A,Lillian Welch,Ad in vitae recusand,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00

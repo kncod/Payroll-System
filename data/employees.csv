@@ -1,0 +1,5 @@
+employee_id,full_name,gender,department,position,phone_number,hire_date,basic_salary,bank_account_number,status
+EMP001,Abebe Kebede,Male,IT,Software Developer,0911000001,2023-01-15,39000.00,1000012345,Active
+EMP002,Hana Tesfaye,Female,Finance,Accountant,0911000002,2022-08-01,12000.00,1000012346,Active
+EMP003,Samuel Bekele,Male,HR,HR Officer,0911000003,2021-05-12,18000.00,1000012347,Active
+VOLUPTAS SIMILIQUE A,Lillian Welch,Other,Ad in vitae recusand,Nemo ex sint facilis,+1 (261) 261-6687,2026-06-06,0.00,887,Active
